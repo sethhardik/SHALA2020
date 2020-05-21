@@ -4,9 +4,10 @@ Assignments for SHALA 2020(Stay Home and Learn AI), a volunteer effort by IITB f
 
 ## Course Link
 https://shala2020.github.io/
-Topic
-|Assignment	Content|
-1	Getting started : Python data structure, Loops, Classes, Linear Algebra
+## Topic
+|Assignment |	Content|
+|-----------|--------------------------------------------------------------------------------------------------|
+|1	Getting started | Python data structure, Loops, Classes, Linear Algebra|
 2	Basic data understanding: Data science, Central tendency, Plots, Cumulative distribution
 3	Improving plots: :Different types of plots, How to customize plots
 4	Basic statistics : Maximum likelihood estimation, sufficient statistics, null hypothesis testing, t-test, Wilcoxon rank test
